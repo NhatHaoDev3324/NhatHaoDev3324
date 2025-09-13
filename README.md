@@ -1,88 +1,93 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trgiman/trgiman/main/Assets/github-header-image.png" alt="Header Banner">
+  <img src="https://raw.githubusercontent.com/trgiman/trgiman/main/Assets/github-header-image.png" alt="Header Banner Nhat Hao">
 </p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
   <h1>
     Hi there, I'm Nhat Hao
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
   </h1>
-  <h3 align="center">A passionate Full-Stack & Mobile Developer from Vietnam 🇻🇳</h3>
-
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Building+Scalable+Web+%26+Mobile+Apps;Always+Learning+New+Things;React+%7C+Golang+%7C+React+Native" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Mobile+Developer;Building+Future-Proof+Applications;React+%7C+Golang+%7C+React+Native" alt="Typing SVG" />
   </a>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-1.gif" width="100%">
 
-### 👨‍💻 About Me
+### 👨‍💻 A Little More About Me...
 
-- 📍 Based in **Ho Chi Minh City, Vietnam**
-- 💡 Passionate about building performant, scalable, and user-friendly applications.
-- 🚀 Focused on modern technologies like **React, Golang, and React Native**.
-- 🤝 Open to collaborating on interesting open-source or freelance projects.
-- 🌱 Currently exploring **System Design** and **Microservices Architecture**.
-- 💬 Ask me about anything, I'm happy to help!
-
----
-
-### 🛠️ My Tech Stack
-
-Đây là danh sách các công nghệ bạn đã cung cấp và mình đã mở rộng ra rất nhiều. **Hãy xóa những icon mà bạn không sử dụng!**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,scss,shadcnui,materialui,vite,figma" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,java,python,nestjs,prisma" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,docker,kubernetes,aws,gcp,nginx" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,linux,bash" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/MicaelliMedeiros/master/image/computer-illustration.png" alt="Illustration" width="400" align="right">
 </p>
 
----
+- 🚀 I'm passionate about crafting elegant, efficient, and scalable solutions.
+- 💡 Turning complex problems into simple, beautiful, and intuitive designs is my jam.
+- 🌱 I’m currently diving deep into **System Design Patterns** and **Cloud-Native technologies**.
+- 💬 Feel free to reach out for collaborations, tech talks, or just a friendly chat!
+- 📫 How to reach me: **youremail@example.com** - 🇻🇳 Based in the vibrant **Ho Chi Minh City, Vietnam**.
 
-### 📊 My GitHub Stats
+<br/>
+<br/>
+<br/>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-1.gif" width="100%">
+
+<div align="center">
+  <h2>🚀 My Tech Universe 🚀</h2>
+</div>
+
+### 💻 Frontend Development
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Nhat Hao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
-  </a>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,vite,tailwind,scss,shadcnui,materialui,chakraui,jest,testinglibrary,cypress,figma" />
 </p>
 
+### ⚙️ Backend Development
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,gin,java,spring,python,fastapi,prisma,graphql" />
 </p>
 
----
-
-### 🌐 Let's Connect
-
+### 📱 Mobile Development
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter,dart,android,ios,swift,kotlin" />
+</p>
+
+### 🗃️ Databases & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite,firebase,supabase" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,vercel,netlify,git,github,githubactions,jenkins,terraform" />
+</p>
+
+### 🛠️ Software & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,intellij,postman,linux,bash,powershell,jira,notion" />
+</p>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-1.gif" width="100%">
+
+### 🌐 Let's Connect!
+<div align="center">
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://linkedin.com/in/nhathao" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://facebook.com/YoungboiCamau33" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+</div>
 
----
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-1.gif" width="100%">
+
 <p align="center">
-  ⭐️ From <a href="https://github.com/yourusername">Nhat Hao</a>
+  ⭐️ From Nhat Hao with ❤️
 </p>
