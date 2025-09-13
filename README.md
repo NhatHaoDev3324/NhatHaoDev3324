@@ -27,15 +27,17 @@
 
 
 
-- 🚀 I'm passionate about crafting elegant, efficient, and scalable solutions.
+- 🚀 Passionate about crafting elegant, efficient, and scalable solutions.
 
-- 💡 Turning complex problems into simple, beautiful, and intuitive designs is my jam.
+- 💡 Enjoy transforming complex problems into simple, intuitive, and beautiful user experiences.
+ 
+- 🌱 Currently exploring **System Design Patterns** and **Cloud-Native Technologies** to build modern, resilient applications.
 
-- 🌱 I’m currently diving deep into **System Design Patterns** and **Cloud-Native technologies**.
+- 🛠 Experienced with web & mobile development, RESTful APIs, and database design.
 
-- 💬 Feel free to reach out for collaborations, tech talks, or just a friendly chat!
-
-- 📫 How to reach me: **nguyennhathao.cm2k4@gmail.com** - 🇻🇳 Based in the vibrant **Ho Chi Minh City, Vietnam**.
+- 🤝 Open to collaborations, innovative projects, and meaningful tech discussions.
+  
+- 📫 Reach me at: **nguyennhathao.cm2k4@gmail.com**  
 
 
 
