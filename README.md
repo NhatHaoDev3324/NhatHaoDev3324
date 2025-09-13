@@ -18,19 +18,24 @@
 
 ### 👨‍💻 A Little More About Me...
 
-<p align="left">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
+
+<div style="display: flex; flex-direction: column;">
+<p>
+- 🚀 I'm passionate about crafting elegant, efficient, and scalable solutions. <br/>
+- 💡 Turning complex problems into simple, beautiful, and intuitive designs is my jam. <br/>
+- 🌱 I’m currently diving deep into **System Design Patterns** and **Cloud-Native technologies**. <br/>
+- 💬 Feel free to reach out for collaborations, tech talks, or just a friendly chat! <br/>
+- 📫 How to reach me: **nguyennhathao.cm2k4@gmail.com** - 🇻🇳 Based in the vibrant **Ho Chi Minh City, Vietnam**. <br/>
+</p>
+
+
+</div>
+<p >
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/MicaelliMedeiros/master/image/computer-illustration.png" alt="Illustration" width="400" align="right">
 </p>
 
-- 🚀 I'm passionate about crafting elegant, efficient, and scalable solutions.
-- 💡 Turning complex problems into simple, beautiful, and intuitive designs is my jam.
-- 🌱 I’m currently diving deep into **System Design Patterns** and **Cloud-Native technologies**.
-- 💬 Feel free to reach out for collaborations, tech talks, or just a friendly chat!
-- 📫 How to reach me: **nguyennhathao.cm2k4@gmail.com** - 🇻🇳 Based in the vibrant **Ho Chi Minh City, Vietnam**.
-
-<br/>
-<br/>
-<br/>
+</div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-1.gif" width="100%">
 
