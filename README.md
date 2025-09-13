@@ -68,7 +68,7 @@
 ### 📱 Mobile Development
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
 </p>
 
 ### 🗃️ Databases & Storage
