@@ -10,7 +10,7 @@
   </h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Mobile+Developer;Building+Future-Proof+Applications;React+%7C+Golang+%7C+React+Native" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Mobile+Developer;Building+Future-Proof+Applications;React+%7C+Golang+%7C+React+Native" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 - 💡 Turning complex problems into simple, beautiful, and intuitive designs is my jam.
 - 🌱 I’m currently diving deep into **System Design Patterns** and **Cloud-Native technologies**.
 - 💬 Feel free to reach out for collaborations, tech talks, or just a friendly chat!
-- 📫 How to reach me: **youremail@example.com** - 🇻🇳 Based in the vibrant **Ho Chi Minh City, Vietnam**.
+- 📫 How to reach me: **nguyennhathao.cm2k4@gmail.com** - 🇻🇳 Based in the vibrant **Ho Chi Minh City, Vietnam**.
 
 <br/>
 <br/>
@@ -40,32 +40,32 @@
 
 ### 💻 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,vite,tailwind,scss,shadcnui,materialui,chakraui,jest,testinglibrary,cypress,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,scss,materialui,figma" />
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,gin,java,spring,python,fastapi,prisma,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,java,spring,python,graphql" />
 </p>
 
 ### 📱 Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=reactnative,flutter,dart,android,ios,swift,kotlin" />
+  <img src="https://skillicons.dev/icons?i=react,flutter" />
 </p>
 
 ### 🗃️ Databases & Storage
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite,firebase" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,vercel,netlify,git,github,githubactions,jenkins,terraform" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,githubactions" />
 </p>
 
 ### 🛠️ Software & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,intellij,postman,linux,bash,powershell,jira,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,postman,linux,bash,powershell" />
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-1.gif" width="100%">
