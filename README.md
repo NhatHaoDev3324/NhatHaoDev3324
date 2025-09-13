@@ -65,7 +65,7 @@
 
 ### 🛠️ Software & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,postman,linux,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,androidstudio,postman,linux,bash,powershell" />
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-1.gif" width="100%">
