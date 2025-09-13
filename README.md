@@ -20,12 +20,8 @@
 ### 👨‍💻 A Little More About Me...
 
 <p align="left">
-
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/MicaelliMedeiros/master/image/computer-illustration.png" alt="Illustration" width="400" align="right">
-
 </p>
-
-
 
 - 🚀 Passionate about crafting elegant, efficient, and scalable solutions.
 
@@ -39,11 +35,7 @@
   
 - 📫 Reach me at: **nguyennhathao.cm2k4@gmail.com**  
 
-
-
 <br/>
-
-
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-1.gif" width="100%">
 
