@@ -60,7 +60,7 @@
 
 ### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,githubactions,gitlab" />
 </p>
 
 ### 🛠️ Software & Tools
