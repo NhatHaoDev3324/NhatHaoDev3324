@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trgiman/trgiman/main/Assets/github-header-image.png" alt="Header Banner Nhat Hao">
+  <img src="image/github-header-banner.png" alt="Header Banner Nhat Hao">
 </p>
 
 <div align="center">
