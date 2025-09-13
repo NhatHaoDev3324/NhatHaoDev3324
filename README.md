@@ -40,7 +40,7 @@
 
 ### 💻 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,scss,materialui,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,scss,materialui,figma" />
 </p>
 
 ### ⚙️ Backend Development
