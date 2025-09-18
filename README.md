@@ -13,9 +13,6 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-1.gif" width="100%">
-
-
 
 ### 👨‍💻 A Little More About Me...
 
