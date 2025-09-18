@@ -14,6 +14,7 @@
 </div>
 
 
+
 ### 👨‍💻 A Little More About Me...
 
 <p align="left">
@@ -34,7 +35,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-1.gif" width="100%">
+
 
 <div align="center">
 
@@ -80,7 +81,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea,androidstudio,postman,linux,windows,bash,ubuntu,powershell" />
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-1.gif" width="100%">
 
 ### 🌐 Let's Connect!
 <br/>
@@ -91,7 +91,6 @@
   <a href="mailto:nguyennhathao.cm2k4@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-1.gif" width="100%">
 
 <p align="center">
   ⭐️ From Nhat Hao
