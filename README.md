@@ -54,7 +54,7 @@
 ### ⚙️ Backend Development
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,java,spring,python,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,java,spring,python" />
 </p>
 
 ### 📱 Mobile Development
