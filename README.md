@@ -48,13 +48,13 @@
 ### 💻 Frontend Development
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs,nextjs,vite,tailwind,bootstrap,scss,materialui,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs,nextjs,vite,tailwind,bootstrap,scss,materialui" />
 </p>
 
 ### ⚙️ Backend Development
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,java,spring,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,python" />
 </p>
 
 ### 📱 Mobile Development
@@ -66,7 +66,7 @@
 ### 🗃️ Databases & Storage
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,firebase" />
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -78,7 +78,7 @@
 ### 🛠️ Software & Tools
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea,androidstudio,postman,linux,windows,bash,ubuntu,powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,androidstudio,postman,linux,windows,bash,ubuntu,powershell" />
 </p>
 
 
